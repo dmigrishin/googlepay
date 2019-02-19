@@ -1,3 +1,6 @@
+runtime: python27
+threadsafe: true
+
 libraries:
 - name: pycrypto
   version: latest
