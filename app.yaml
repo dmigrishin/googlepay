@@ -1,4 +1,3 @@
-application: qronus-payments-test
 version: 4 
 runtime: python27
 api_version: 1
