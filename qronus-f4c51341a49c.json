@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "qronus",
+  "private_key_id": "f4c51341a49c764717ad220740273d2676ac50fb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDxug72RDRDg+p1\nuVhhi7a2hzrg1s+oPJZvSIdqk1B9RmKI7eODmi4rjgfuz8GZDilE6GtfEa6yc1cf\nBJu4XDhQ0Cs1zZ0zgsJ7bab03avNo6pb3Z8RHOelPnSWqGz7+QoirYfdmbf0+SSR\n6/JjJbyPJXyerXTCrLWVh9vSp0lbdOkb6VOdy29XOF3jWAQ2v/OhpX9Ea5R2tIWH\nZ3QBbz4ERz0ASnU4GlwJuGWTVH2kHItArnPQMVRYHCN0I/cWN9hMTYCI/15eZ5xy\nBrhoBl6DN5Q3tvXz3xQpOGEASIq4YQTq8wGh0s5G4MgNwptoGey0ubYiW9fN8rfu\nYGPIH7gVAgMBAAECggEAXP3y25KJeJ+7BubytTQGalnDsNNyt4n3ZYBFeB6MDGWT\napH5wJsDwAW3z4tlMvhbsAKpq70ls8jjby9aqKXxlEVBGkWrgDGBl/IrFHBis42O\n8CBmHTM9ejh4qazJoHXCDG0to3aLalaeVvSqHrJZw8fsFS8th+bhRFEro/JvKhsk\nXAqgKS4lSMAfHMK6VjUn8b3siptKnutM6iiLqRrLUqjj0MX1eRdbqeTLUmGqzV5m\nBEOQ+LJNiTmYFqdCslbd2O2F3nUOIcde6+m99GF9xeYlvynW5n+9L8gNWEpvOBuG\nhOPwtAhxPS3Sex90Il5M0UC3SlO2lVJ+6BCYqB8e0QKBgQD5kwr9r4uOJr96d1DA\nGV5rWrRjJZFn9gQz5XlSSFZGl7NTBhlh82oYTGyEuOknKT5x3Tds9cWbAg+wv6zw\niDDDx6rWuB6Zdv+fB8wTLjnZB4VnfYoETLoH5X1WpK1Ap/f9Fe3EueBayeYg6u48\ncc39yvF+1MrrBq1zCxGvkWk1EwKBgQD380qnxeUULFCuKn8sJF88axyBNRIWyqFV\nWrddC69HyaA8aPkVjWwvaz+POWi59RFSWFxe0uoObjlGOnZcrydy6SpU45J00mSH\nzKyszKE+c+YLXlkSd4Q2oalxRjRVc4Zo28c+CyYutaW6qZzwL1Y3nqCxCaBZfuxb\n+OEdpPyLNwKBgFJog1CRDnu5v7Aohblopwy7vqSeWw0A5xJby1uoFxToMoZPlUIK\nphWv5oVMqXAM5lmiuhJ4dO9iFtw97lTeI3wCCh8sXK4/5NgWMwSCVweavCoYAeK5\nkxPYazKY3bxjujcPbptu5O4VjK+B43iB+4q54FQI35gLdGpwVT6rvRmRAoGAOFKs\np7W9VrrGTPncT4OnmoreO795b3Hx+fiUZG9uDomPe4mA41NvusnK81bgIjW4DJOD\n0AprHoINQpWvI1iqRmEOu5/COgU8zthAdTQ6gHxFSlnRM++wOdS5L8D5zFtksdcS\nyFYyAzRCBEfZHXozRIklCXIdWZcKS84aHOjIcTsCgYApAPvWwGLHy3l5U9XysR+n\n6KyzDjopP65yeMqykiUyKu8RktmKQu1q1l48rSf6yREbHc/3LUg5DDhAhISUWVct\nooNYWS4ycODoUyjbqD8sEnnD/b39ETUB0jBluHgomCiZOanmxAqWWyEEzBo+Br6u\n5OalljRpZKOrBid3hdB3+w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-pay-for-passes@qronus.iam.gserviceaccount.com",
+  "client_id": "117441225721498180064",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-pay-for-passes%40qronus.iam.gserviceaccount.com"
+}
